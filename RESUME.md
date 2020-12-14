@@ -12,7 +12,7 @@
 
 ## WORK EXPERIENCE
 + COMPANY: \__THE WORLD BANK__
-+ PERIOD NOV 2017 - APRIL 2018
++ PERIOD APRIL 2018 - PRESENT
 + ROLE: [PREVENTIVE SVC & CORP INITIATIVE]
 
 ###### RESPONSIBILITIES:
@@ -23,7 +23,7 @@
 
 
 
-+ PERIOD APRIL 2018 - PRESENT
++ PERIOD NOV 2017 - APRIL 2018
 + ROLE: [SYSTEMS INTEGRATION]
 
 ###### RESPONSIBILITIES:
@@ -35,8 +35,14 @@
 
 
 
-+ PERIOD APRIL 2018 - PRESENT
-+ ROLE: [SYSTEMS INTEGRATION]
++ PERIOD OCT 2011 - OCT 2017
++ ROLE: COMMUNICATIONS ASSISTANT
+
+###### RESPONSIBILITIES:
+-	Managed the Internal Business Process Team (IBPT) in deploying a new Task Management Software resulting in improved systems workflow management, performance tracking and unit objectives/metrics management. 
+-	Played a lead role in the transition of World’s Bank internal (intranet) & External Website collaborating with local and overseas based developers, data Centre Managers & IT teams. 
+-	Delivered key visual identity platform management expertise to ensure cross-platform alignment with the World Bank Group (WBG) branding/visual identity standards.
+
 
 &nbsp;
 
