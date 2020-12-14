@@ -62,8 +62,8 @@
   :: Lynchburg College Lynchburg VA.	[2011]
 
 
-
+******************************************
 &nbsp;
 &nbsp;
 
-jjjs
+
