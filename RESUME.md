@@ -2,8 +2,9 @@
 ####                                       Email: laraadeleke@gmail.com Mobile: (301)-385-5314
 
 
-## A
-b\c
+## COMPETENCE
+- JONZING
+
 
 &nbsp;
 
