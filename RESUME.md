@@ -10,7 +10,9 @@
 - Product Roadmap Development
 - User Requirement Modelling
 - UATs
+- Business & IT Alignment
 
+******************************************
 ## WORK EXPERIENCE
 #### COMPANY: THE WORLD BANK
 #### PERIOD APRIL 2018 - PRESENT
