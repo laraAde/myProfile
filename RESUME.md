@@ -24,8 +24,8 @@
 
 ******************************************
 
-+ PERIOD NOV 2017 - APRIL 2018
-+ ROLE: [SYSTEMS INTEGRATION]
+#### PERIOD NOV 2017 - APRIL 2018
+#### ROLE: [SYSTEMS INTEGRATION]
 
 ###### RESPONSIBILITIES:
 -	Managed the deployment of Enterprise Resource Planning (ERPs) tools for budget, transactions and trend management. (A 7-month project for the Global Transaction Management Team).
