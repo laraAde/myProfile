@@ -36,8 +36,8 @@
 
 ******************************************
 
-+:: PERIOD OCT 2011 - OCT 2017
-+:: ROLE: COMMUNICATIONS ASSISTANT
+#### PERIOD OCT 2011 - OCT 2017
+#### ROLE: COMMUNICATIONS ASSISTANT
 
 ###### RESPONSIBILITIES:
 -	Managed the Internal Business Process Team (IBPT) in deploying a new Task Management Software resulting in improved systems workflow management, performance tracking and unit objectives/metrics management. 
