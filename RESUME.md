@@ -1,9 +1,8 @@
-#  OMOLARA ('LARA) ADELEKE
+#  OMOLARA ('LARA) ADELEKE. ## Mobile: (301)-385-5314. ## Email: laraadeleke@gmail.com
+
 &nbsp;
-## Mobile: (301)-385-5314
-&nbsp;
-## Email: laraadeleke@gmail.com
-&nbsp;
+
+
 
 ## A
 b\c
