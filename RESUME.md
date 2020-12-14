@@ -12,9 +12,9 @@
 - UATs
 
 ## WORK EXPERIENCE
-+ COMPANY: \__THE WORLD BANK__
-+ PERIOD APRIL 2018 - PRESENT
-+ ROLE: [PREVENTIVE SVC & CORP INITIATIVE]
+#### COMPANY: \__THE WORLD BANK__
+#### PERIOD APRIL 2018 - PRESENT
+#### ROLE: [PREVENTIVE SVC & CORP INITIATIVE]
 
 ###### RESPONSIBILITIES:
 - Managed a $20 million Information Technology budget for the Vice-presidency Strategic Team with a primary focus on workflow process automation, business continuity modelling and resource management migration.
