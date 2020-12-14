@@ -11,7 +11,7 @@
 - UATs
 
 ## WORK EXPERIENCE
-+ COMPANY: THE WORLD BANK
++ COMPANY: \__THE WORLD BANK__
 + PERIOD NOV 2017 - APRIL 2018
 + ROLE: [PREVENTIVE SVC & CORP INITIATIVE]
 
@@ -33,6 +33,10 @@
 -	Managed Software Launch schedules; coordinated with internal departments, Oversaw Quality Assurance Testing as well as project sizing utilizing data and resource capacity to plan project releases.
 -	Mitigated inherent risks by identifying escalating and resolving issues as they arise. 
 
+
+
++ PERIOD APRIL 2018 - PRESENT
++ ROLE: [SYSTEMS INTEGRATION]
 
 &nbsp;
 
