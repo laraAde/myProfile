@@ -51,7 +51,8 @@
 -	World Bank Group Spot Award recipient for Outstanding Performance and Efforts
 
 
-
+******************************************
+## EDUCATION
 
 -	Ms Project Management
 George Washington University	Spring 2021
