@@ -33,9 +33,9 @@
 -	Managed Software Launch schedules; coordinated with internal departments, Oversaw Quality Assurance Testing as well as project sizing utilizing data and resource capacity to plan project releases.
 -	Mitigated inherent risks by identifying escalating and resolving issues as they arise. 
 
+******************************************
 
-
-\__+ PERIOD OCT 2011 - OCT 2017
++ PERIOD OCT 2011 - OCT 2017
 + ROLE: COMMUNICATIONS ASSISTANT
 
 ###### RESPONSIBILITIES:
