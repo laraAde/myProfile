@@ -43,6 +43,11 @@
 -	Played a lead role in the transition of World’s Bank internal (intranet) & External Website collaborating with local and overseas based developers, data Centre Managers & IT teams. 
 -	Delivered key visual identity platform management expertise to ensure cross-platform alignment with the World Bank Group (WBG) branding/visual identity standards.
 
+## PROJECTS, RECOGNITIONS & AWARDS 
+- May 2019 Participant in the World Bank Group’s Inaugural 48 hours Tech Hackathon event
+-	Collaborated on a team that developed a software using Blockchain Technology to solve a global supply chain issue
+-	World Bank Group Spot Award recipient for Outstanding Performance and Efforts
+
 
 &nbsp;
 
