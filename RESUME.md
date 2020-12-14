@@ -22,9 +22,17 @@
 -	Facilitated multi echelon user acceptance tests, client-side product-based knowledge sessions and non-technical use-case review sessions. 
 
 
-+ COMPANY: THE WORLD BANK
+
 + PERIOD APRIL 2018 - PRESENT
 + ROLE: [SYSTEMS INTEGRATION]
+
+###### RESPONSIBILITIES:
+-	Managed the deployment of Enterprise Resource Planning (ERPs) tools for budget, transactions and trend management. (A 7-month project for the Global Transaction Management Team).
+-	Led integration of systems, processes and workflows for mission critical global initiatives paving the way for accelerated sectional growth, in process handling. 
+-	Managed the Agile/Scrum environment for the deployment of a customer knowledge base system. This provided direction to the development team; ensured on-time releases, user requirements specification management and eventual phased deployment.
+-	Managed Software Launch schedules; coordinated with internal departments, Oversaw Quality Assurance Testing as well as project sizing utilizing data and resource capacity to plan project releases.
+-	Mitigated inherent risks by identifying escalating and resolving issues as they arise. 
+
 
 &nbsp;
 
