@@ -3,7 +3,12 @@
 
 
 ## COMPETENCE
-- JONZING
+- Project Management
+- Enterprise Implementation
+- Product Roadmap Development
+- User Requirement Modelling
+- UATs
+
 
 
 &nbsp;
