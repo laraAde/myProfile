@@ -51,6 +51,17 @@
 -	World Bank Group Spot Award recipient for Outstanding Performance and Efforts
 
 
+
+
+-	Ms Project Management
+George Washington University	Spring 2021
+-	Master’s in Business Administration
+George Washington University	Summer 2021
+-	BA Economics
+  Lynchburg College Lynchburg VA.	2011
+
+
+
 &nbsp;
 &nbsp;
 
