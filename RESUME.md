@@ -1,7 +1,8 @@
 # OMOLARA ('LARA) ADELEKE.
 ##### Email: laraadeleke@gmail.com Mobile: (301)-385-5314
 
-&nbsp;
+******************************************
+
 
 ## COMPETENCE
 - Project Management
@@ -50,6 +51,7 @@
 -	World Bank Group Spot Award recipient for Outstanding Performance and Efforts
 
 
+&nbsp;
 &nbsp;
 
 jjjs
