@@ -21,7 +21,7 @@
 -	Developed metrics to track project progress while objectively re-assessing pending deliverables vis-a-vis agreed timelines. 
 -	Facilitated multi echelon user acceptance tests, client-side product-based knowledge sessions and non-technical use-case review sessions. 
 
-
+******************************************
 
 + PERIOD NOV 2017 - APRIL 2018
 + ROLE: [SYSTEMS INTEGRATION]
